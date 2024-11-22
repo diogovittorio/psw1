@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+#cabecalho {
+    padding: 3px;
+    background-color: rgb(229, 177, 233);
+    text-align: center;
+}
+
+#navegacao {
+    padding: 10px;
+    background-color: rgb(229, 114, 198);
+    text-align: center;
+    border: solid 1px;
+}
+
+a {
+    padding: 8px;
+    text-decoration: none;
+    background-color: rgb(252, 182, 246);
+    border-radius: 20px;
+    margin-left: 70px;
+}
+
+.meio {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: auto;
+    display: flex;
+    width: 100%;
+    height: 615px;
+    background-color: rgb(232, 205, 255);
+    text-align: left;
+}
+
+#div1 {
+    width: 30%;
+
+}
+
+#div2 {
+    background-color: rgb(222, 151, 255);
+    width: 40%;
+    border-radius: 10px;
+    border: solid 1px;
+    padding-left: 10px;
+    
+}
+
+h2 {
+    text-align: center;
+}
+
+
+#div3 {
+    width: 30%;
+}
+
+#rodape {
+    padding: 1px;
+    background-color: rgb(229, 114, 250);
+    text-align: center;
+}
